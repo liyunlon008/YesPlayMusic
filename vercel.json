@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://service-6tt1vlfk-1253940481.gz.apigw.tencentcs.com/:match*"
+    }
+  ]
+}
